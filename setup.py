@@ -21,7 +21,7 @@ entry_points = """
 """
 
 setup(name='SQLAHelper',
-      version='2.0',
+      version='1.1.0-beta',
       description='A place for your SQLAlchemy engines, sessions, and bases.',
       long_description=README + '\n\n' +  CHANGES,
       classifiers=[
@@ -31,7 +31,7 @@ setup(name='SQLAHelper',
         "Topic :: Database",
         ],
       keywords='',
-      author="Mike Orr",
+      author="Mike Orr","Faris Prakoso"
       author_email="sluggoster@gmail.com",
       url="https://github.com/Pyramid/SQLAHelper",
       license="MIT",
