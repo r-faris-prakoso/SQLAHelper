@@ -31,7 +31,7 @@ setup(name='SQLAHelper',
         "Topic :: Database",
         ],
       keywords='',
-      author="Mike Orr","Faris Prakoso"
+      author="Mike Orr","Faris Prakoso",
       author_email="sluggoster@gmail.com",
       url="https://github.com/Pyramid/SQLAHelper",
       license="MIT",
